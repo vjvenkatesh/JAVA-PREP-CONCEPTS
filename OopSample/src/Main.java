@@ -18,6 +18,7 @@ public class Main {
 
         sb.append('d');
 
+        sb.append("Hello");
 
         System.out.println("StringBuilder sample " +sb);
 
